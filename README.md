@@ -15,6 +15,12 @@
   <td width="50%"><img src="https://github.com/imamhossain94/sololearn/blob/main/assets/Html_certificate.jpg" alt="BLANK" width="450" height="30%"></td>
   </tr>
   
+  <br>
+  
+  <tr>
+  <td width="50%"><img src="https://github.com/imamhossain94/sololearn/blob/main/assets/CPlusPlus_certificate.jpg" alt="BLANK" width="450" height="30%"></td>
+  </tr>
+  
 </table>
 </body>
 </html>

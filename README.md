@@ -19,6 +19,7 @@
   
   <tr>
   <td width="50%"><img src="https://github.com/imamhossain94/sololearn/blob/main/assets/CPlusPlus_certificate.jpg" alt="BLANK" width="450" height="30%"></td>
+  <td width="50%"><img src="https://github.com/imamhossain94/sololearn/blob/main/assets/Java_certificate.jpg" alt="BLANK" width="450" height="30%"></td>
   </tr>
   
 </table>
